@@ -19,7 +19,7 @@ Designed for **ethical use in authorized security tests** and digital forensics 
 - Output is **deduplicated** and sorted by **length** and **alphabetical order**.
 
 ---
-
+<img width="521" height="320" alt="image" src="https://github.com/user-attachments/assets/5187eb86-e2a0-4db7-ac3d-6ae78fdd5e77" />
 ## 📦 Installation
 Clone the repository:
 ```bash
@@ -29,6 +29,6 @@ chmod +x passgen.py
 python3 passgen.py
 or
 python3 passgen.py --interactive
-<img width="521" height="320" alt="image" src="https://github.com/user-attachments/assets/5187eb86-e2a0-4db7-ac3d-6ae78fdd5e77" />
+
 
 
